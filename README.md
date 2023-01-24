@@ -9,30 +9,42 @@ Sometimes it's helpful to keep track of your web URL.  Consider putting that som
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! This is Yuan Meng, from China. You can call me Ivy! Now, I am studying in the MISM-Global Program of CMU. I really like data, which can disclose lots of interesting information. And I am exploring more effective dat visualization methods. So I create this page to record my learning journey of the data visualization. 
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
+Below is the data visualization topics I am interested in:
 
+1. Controlling Color #1
+2. Crafting for Clarity #2
+3. Choosing Chart Types #3
+4. Practicing Persuasion #4
+5. Capturing Concepts #5
+6. Making Good Charts #6
+
+After graduating, I hope I can be a great strategy or IT consultant.
+
+<!--- 
 or...
 
 - List item #1
 - List item #2
 - List item #3
+-->
 
 # Portfolio
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment 1: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment 2:
+
+## Assignment 3:
+
+## Assignment 4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
