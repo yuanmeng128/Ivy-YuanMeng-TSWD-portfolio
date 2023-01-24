@@ -1,9 +1,8 @@
-# TSWD-portfolio-templates
-Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
-Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+# Yuan Meng (Ivy) portfolio
+This is my public portfolio for Telling Stories with Data Course at CMU! I will post my cool work here! 
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+- Web page URL: https://yuanmeng128.github.io/Ivy-YuanMeng-TSWD-portfolio/ 
+- This repository: https://github.com/yuanmeng128/Ivy-YuanMeng-TSWD-portfolio/
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
