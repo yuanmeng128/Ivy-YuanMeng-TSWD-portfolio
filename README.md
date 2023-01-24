@@ -1,11 +1,7 @@
-# Yuan Meng (Ivy) portfolio
-This is my public portfolio for Telling Stories with Data Course at CMU! I will post my cool work here! 
-
+# Yuan Meng (Ivy) Portfolio
+This is my public portfolio for Telling Stories with Data Course at CMU! Here's where all my cool work will go.
 - Web page URL: https://yuanmeng128.github.io/Ivy-YuanMeng-TSWD-portfolio/ 
 - This repository: https://github.com/yuanmeng128/Ivy-YuanMeng-TSWD-portfolio/
-
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
 Hi! This is Yuan Meng, from China. You can call me Ivy! Now, I am studying in the MISM-Global Program of CMU. I really like data, which can disclose lots of interesting information. And I am exploring more effective dat visualization methods. So I create this page to record my learning journey of the data visualization. 
@@ -35,24 +31,36 @@ or...
 
 # Portfolio
 
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
+## Assignment 1: 
 
-## Assignment 1: [Visualizing overnment Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+<!---[Visualizing overnment Debt](visualizing-government-debt)
+For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. -->
+
+Coming soon...
 
 ## Assignment 2:
 
+Coming soon...
+
 ## Assignment 3:
 
-## Assignment 4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+Coming soon...
 
-## Final project
-Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
+## Assignment 4: 
+
+<!---[Critique by Design](critique-by-design)
+For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`. --> 
+
+Coming soon...
+
+## Final project:
+Here it might be helpful to include a high-level description of your final project.
+
+[Part I](final-project-part-one) 
+
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
+
+[Part III](final-project-part-three)
 
 <!---
 ---
