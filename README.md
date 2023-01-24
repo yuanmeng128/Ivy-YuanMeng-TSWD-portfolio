@@ -62,6 +62,9 @@ Here it might be helpful to include a high-level description of your final proje
 
 [Part III](final-project-part-three)
 
+## Reference
+https://github.com/cmustudent/tswd-portfolio-templates
+
 <!---
 ---
 ## Other stuff you can do (you can remove this section - it's just for your reference.)
