@@ -54,7 +54,8 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 Coming soon...
 
 ## Final project:
-Here it might be helpful to include a high-level description of your final project.
+
+A high-level description of my final project: coming soon...
 
 [Part I](final-project-part-one) 
 
