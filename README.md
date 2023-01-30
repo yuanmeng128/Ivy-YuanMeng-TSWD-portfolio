@@ -31,6 +31,9 @@ or...
 
 # Portfolio
 
+## WEEK 3 IN-CLASS EXERCISE
+[King County data visulization](week_3_in-class_exercise)
+
 ## Assignment 1: 
 
 [Visualizing Government Debt](visualizing-government-debt)
