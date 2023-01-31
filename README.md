@@ -6,7 +6,7 @@ This is my public portfolio for Telling Stories with Data Course at CMU! Here's 
 # About me
 Hi! This is Yuan Meng, from China. You can call me Ivy! Now, I am studying in the MISM-Global Program of CMU. I really like data, which can disclose lots of interesting information. And I am exploring more effective dat visualization methods. So I create this page to record my learning journey of the data visualization. 
 
-<img src="https://user-images.githubusercontent.com/122709931/215671336-71896df5-9d25-4030-afcb-de70b8febdc3.JPG" width="400"/>
+<img src="https://user-images.githubusercontent.com/122709931/215671336-71896df5-9d25-4030-afcb-de70b8febdc3.JPG" width="300"/>
 
 # What I hope to learn
 
