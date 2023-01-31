@@ -26,10 +26,15 @@ The heat map displays the debt-to-GDP ratio of each country in 2021. With the he
 
 The bar chart is usually used to show comparisons among discrete categories. One axis of the chart shows the categories to be compared. The other axis shows the measured value. If no specific orders of bars are required, bars on the chart are usually arranged from highest to lowest or lowest to highest to make the comparision more clear. In our "General Government Debt Bar Chart", we compare the debt-to-GDP ratios of countries in 2021. By arranging the bars from the lowest to the highest, readers can easily identify Japan has the highest debt-to-GDP ratio, Estonia has the lowest ratio and the ranking of other countries. However, the bar chart has an obvious shortage that it can only compare the ratios of different countries in a single year. It's true that we can group the data based on the year and include several groups in the bar chart to compare countries' ratios in different years. However, the resulted bar chart would be too long and its clarity would be greatly reduced.
 
-The sparkline is a very small line chart, typically drawn without axes or coordinates. It presents the general shape of the variation (typically over time) in some measurement in a simple and highly condensed way. Since the size of the sparkline is very small, several sparklines can be grouped together. In our "General Government Debt Sparklines", each sparkline shows the changing pattern of a specific country's debt-to-GDP ratio and sparklines of different countries are grouped together. Since the size of each sparkline is small, it's adoptable to draw each country's sparkline and group them together. So, our sparklines can display the changing trends of each country's debt-to-GDP ratio. However, 
+The sparkline is a very small line chart, typically drawn without axes or coordinates. It presents the general shape of the variation (typically over time) in some measurement in a simple and highly condensed way. Since the size of the sparkline is very small, several sparklines can be grouped together. In our "General Government Debt Sparklines", each sparkline shows the changing pattern of a specific country's debt-to-GDP ratio and sparklines of different countries are grouped together. Since the size of each sparkline is small, it's adoptable to draw each country's sparkline and group them together. So, our sparklines can display the changing trends of each country's debt-to-GDP ratio. However, the disadvantages are apparent. Firstly, since the sparkline just shows the general trend, readers cannot get detailed data or information from the sparkline. Secondly, since the line of each country is put in different sparkline charts, it's difficult to compare the trend of different countries. 
+
+The map 
 
 ## Reference:
 
 https://en.wikipedia.org/wiki/Bar_chart
+
+https://en.wikipedia.org/wiki/Sparkline
+
 
 
