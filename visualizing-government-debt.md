@@ -16,4 +16,9 @@ This visualization display the debt-to-GDP ratio from 1995 to 2021 of different 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12596848"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+- Second visualization: heat map
+
+The heat map displays the debt-to-GDP ratio of each country in 2021. With the heat map, the location of each country is shown clearly and their sizes of the debt-to-GDP ratio are displayed by the shade of the "orange color". The larger the ratio, the darker the color. 
+
+<div class="flourish-embed flourish-map" data-src="visualisation/12597280"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
