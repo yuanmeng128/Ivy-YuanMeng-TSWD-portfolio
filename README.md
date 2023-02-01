@@ -43,7 +43,7 @@ or...
 
 ## In-class Exercise:
 
-[News Media Trust] (news-media-trust)
+[News Media Trust](news-media-trust)
 
 ## Assignment 2:
 
