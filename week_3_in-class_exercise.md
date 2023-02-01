@@ -2,10 +2,10 @@
 
 | [home page](https://yuanmeng128.github.io/Ivy-YuanMeng-TSWD-portfolio/) | [week 3 in-class exercise](week_3_in-class_exercise) | [visualizing debt](visualizing-government-debt) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-### Pratice 1
+### Pratice 1 King County Data Visualization
 <div class="flourish-embed flourish-chart" data-src="visualisation/12596005"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-### Pratice 2
+### Pratice 2 News Media Trust 
 
 <div class='tableauPlaceholder' id='viz1675282525759' style='position: relative'><noscript><a href='#'><img alt='Trust in news organizations (source: Simmons Research) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;NewsMediaTrust_16752824561720&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='NewsMediaTrust_16752824561720&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;NewsMediaTrust_16752824561720&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 
