@@ -1,5 +1,10 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
+## Step 3 Sketch
+
+## Trend of Pets Adoption in America from 2017 to 2021
+
+![IMG_0851](https://user-images.githubusercontent.com/122709931/217157987-adb272c9-8630-4e9a-8085-f34c59bc569b.jpg)
 
 ## Pets Adoption Map
 
