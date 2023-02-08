@@ -75,6 +75,7 @@ Below is the redesigned visualization:
 ### Trend of Pets Adoption in America from 2017 to 2021
 
 <img src="https://user-images.githubusercontent.com/122709931/217157987-adb272c9-8630-4e9a-8085-f34c59bc569b.jpg" width="700" />
+
 Source: https://spots.com/pet-adoption-statistics/ 
 
 Besides the visualization above, I also noticed a table in the pet adoption website:
@@ -83,6 +84,7 @@ Besides the visualization above, I also noticed a table in the pet adoption webs
 <img src="https://user-images.githubusercontent.com/122709931/217416262-60de2685-a983-4fd5-8133-6c28b620658c.jpg" width="500"/>
 <img src="https://user-images.githubusercontent.com/122709931/217416437-b7d44de0-a628-47d6-a923-f6feb860cd40.jpg" width="500"/>
 <img src="https://user-images.githubusercontent.com/122709931/217416511-255667b1-b1d9-4c70-b932-7466f6767d33.jpg" width="500"/>
+
 Source: https://spots.com/pet-adoption-statistics/ 
 
 This table includes the number of pets adopted in each state of America in 2020, which can deliver many useful information about the pet adoption in America and supplement the first visualization. However, there is a clear shortage of the table that it is not intuitive so that it's difficult for audience to compare the pet adoption in each state. So, besides the first visualization, I also visualize the table to deliver the useful information more clearly. I decided to build the data on the map and illustrate the number of pets adopted by the shade of each state's map plate. By this way, audience can learn about the pet adoption of each state intuitively and have a general idea of the pet adoption situation in America easily. 
