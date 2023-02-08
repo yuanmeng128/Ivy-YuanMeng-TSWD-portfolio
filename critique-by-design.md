@@ -147,39 +147,82 @@ Interviewee 2: male, graduate, mid 90's.
 For the first line chart:
 
 - Can you tell me what you think this is?
+
 Interviewee 1: The pet adoption is decreasing in America as the title said
+
 Interviewee 2: Introducing the pet adoption data of America from 2017 to 2021
 
 - Can you describe to me what this is telling you?
+
 Interviewee 1: The adoptions of dogs, cats or all pets are decreasing and the adoption of cats decreased most.
+
 Interviewee 2: The general trend of the pet adoption in America: the popularity of pet adoption is decreasing.
 
 - Is there anything you find surprising or confusing?
+
 Interviewee 1: Nothing confusing. Suiprised about the huge decreas of pet adoption. 
+
 Interviewee 2: What's the "total" refers to? The sum of cats and dogs, or also including other animals? 
 
 - Who do you think is the intended audience for this?
+
 Interviewee 1: People interested in adopting pets.
+
 Interviewee 2: Pet adoption agents and people interested in adopting pets.
 
 - Is there anything you would change or do differently?
+
 Interviewee 1: Good enough. Nothing to change.
+
 Interviewee 2: Clarify for the "total".
 
 For the maps:
 
 - Can you tell me what you think this is?
+
 Interviewee 1: The number of pets adopted in each state as the title said.
+
 Interviewee 2: The exact number of pets adopted in each state.
 
 - Can you describe to me what this is telling you?
-Interviewee 1: Califonia has the biggest pets adoption number. 
 
+Interviewee 1: California has the biggest pets adoption number. 
+
+Interviewee 2: California, Texas and Florida have the biggest pets adoption number.
 
 - Is there anything you find surprising or confusing?
+
+Interviewee 1: The maps are clear. Nothing confusing.
+
+Interviewee 2: Surprising: The number of pets adopedt in Alaska is very small. Nothing confusing.
+
 - Who do you think is the intended audience for this?
+
+Interviewee 1: People interested in adopting pets.
+
+Interviewee 2: People interested in adopting pets and the state governments
+
 - Is there anything you would change or do differently?
 
+Interviewee 1: Label the abbreviation of each state on the map to identify each state more easily.
+
+Interviewee 2: Add a bar chart to show the rank of each state more clearly.
+
+### Summary
+
+The core idea and information audience get from the visualizations and I want to convey through the visualizations are very similar, which means that my redesigend visualizations did a good job in the "contextual awareness" perspective. Besides, my audience thought that in general, my visualizations are concise and clear, but some details can be improved further.
+
+Based on the feedback, I summarized several places which can be improved:
+
+For the line chart:
+- Further summarize the topic to be more concise
+- Label the categories next to the line and remove the legends directly
+- Remove the y-axis and add a subtitle including the y label content
+- Clarify for the "total"
+
+For the maps:
+- Label the abbreviation of each state on the map
+- 
 
 
 
