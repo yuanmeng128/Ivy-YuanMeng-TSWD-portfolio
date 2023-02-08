@@ -69,9 +69,10 @@ Based on the critique of the visualization, I made the several adjustments. Firs
 
 Below is the redesigned visualization:
 
-## Trend of Pets Adoption in America from 2017 to 2021
+### Trend of Pets Adoption in America from 2017 to 2021
 
 ![IMG_0851](https://user-images.githubusercontent.com/122709931/217157987-adb272c9-8630-4e9a-8085-f34c59bc569b.jpg)
+Source: https://spots.com/pet-adoption-statistics/ 
 
 Besides the visualization above, I also noticed a table in the pet adoption website:
 
@@ -79,12 +80,13 @@ Besides the visualization above, I also noticed a table in the pet adoption webs
 ![t2](https://user-images.githubusercontent.com/122709931/217416262-60de2685-a983-4fd5-8133-6c28b620658c.jpg)
 ![t3](https://user-images.githubusercontent.com/122709931/217416437-b7d44de0-a628-47d6-a923-f6feb860cd40.jpg)
 ![t4](https://user-images.githubusercontent.com/122709931/217416511-255667b1-b1d9-4c70-b932-7466f6767d33.jpg)
+Source: https://spots.com/pet-adoption-statistics/ 
 
 This table includes the number of pets adopted in each state of America in 2020, which can deliver many useful information about the pet adoption in America and supplement the first visualization. However, there is a clear shortage of the table that it is not intuitive so that it's difficult for audience to compare the pet adoption in each state. So, besides the first visualization, I also visualize the table to deliver the useful information more clearly. I decided to build the data on the map and illustrate the number of pets adopted by the shade of each state's map plate. By this way, audience can learn about the pet adoption of each state intuitively and have a general idea of the pet adoption situation in America easily. 
 
-## Pets Adoption Map
+### Pets Adoption Map
 
-<div class='tableauPlaceholder' id='viz1675743772417' style='position: relative'><noscript><a href='#'><img alt='Number of Pets Adopted in Each State of America in 2020 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pe&#47;PetAdoptioninAmericain2020&#47;TotalMap&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PetAdoptioninAmericain2020&#47;TotalMap' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pe&#47;PetAdoptioninAmericain2020&#47;TotalMap&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<div class='tableauPlaceholder' id='viz1675743772417' style='position: relative'><noscript><a href='#'><img alt='Number of Pets Adopted in Each State of America in 2020 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pe&#47;PetAdoptioninAmericain2020&#47;TotalMap&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PetAdoptioninAmericain2020&#47;TotalMap' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pe&#47;PetAdoptioninAmericain2020&#47;TotalMap&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>               
 
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1675743772417');                    
@@ -95,7 +97,9 @@ This table includes the number of pets adopted in each state of America in 2020,
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-## Cats Adoption Map
+Source: https://spots.com/pet-adoption-statistics/ 
+
+### Cats Adoption Map
 
 <div class='tableauPlaceholder' id='viz1675744160803' style='position: relative'><noscript><a href='#'><img alt='Number of Cats Adopted in Each State of America in 2020 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CatsAdoptioninAmericain2020&#47;CatsMap&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CatsAdoptioninAmericain2020&#47;CatsMap' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CatsAdoptioninAmericain2020&#47;CatsMap&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 
@@ -108,7 +112,9 @@ This table includes the number of pets adopted in each state of America in 2020,
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-## Dogs Adoption Map
+Source: https://spots.com/pet-adoption-statistics/ 
+
+### Dogs Adoption Map
 
 <div class='tableauPlaceholder' id='viz1675744391529' style='position: relative'><noscript><a href='#'><img alt='Number of Dogs Adopted in Each State of America in 2020 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Do&#47;DogsAdoptioninAmericain2020&#47;DogsMap&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DogsAdoptioninAmericain2020&#47;DogsMap' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Do&#47;DogsAdoptioninAmericain2020&#47;DogsMap&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 
@@ -120,5 +126,60 @@ This table includes the number of pets adopted in each state of America in 2020,
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+Source: https://spots.com/pet-adoption-statistics/ 
+
+## Step 4: Test the solution
+
+After finishing my first redesign, I showed my first visualization (the line chart) in class and got many useful feedbacks from my classmates. I also interviewed two persons about my line chart and maps after class and collected many specific feedbacks. 
+
+### Below is the summary of the feedbacks I collected in class about my first line chart:
+
+What I did well: My classmates thought I did improve the clarity of the visualization. The trend of pets adoption is more clear. There are no redundent information in my line chart. The whole visualization is concise and clear.
+
+What can I improve: Firstly, I can remove the legend and label the categories next to the line directly. Secondly, the current title is a little bit long and can be more concise. Thirdly, y-axis can be removed to improve the clarity of the chart further.
+
+### Below is the feedbacks I colloected from my two interviewees:
+
+Interviewee 1: female, student, late 90's; 
+Interviewee 2: male, graduate, mid 90's.
+
+For the first line chart:
+
+- Can you tell me what you think this is?
+Interviewee 1: The pet adoption is decreasing in America as the title said
+Interviewee 2: Introducing the pet adoption data of America from 2017 to 2021
+
+- Can you describe to me what this is telling you?
+Interviewee 1: The adoptions of dogs, cats or all pets are decreasing and the adoption of cats decreased most.
+Interviewee 2: The general trend of the pet adoption in America: the popularity of pet adoption is decreasing.
+
+- Is there anything you find surprising or confusing?
+Interviewee 1: Nothing confusing. Suiprised about the huge decreas of pet adoption. 
+Interviewee 2: What's the "total" refers to? The sum of cats and dogs, or also including other animals? 
+
+- Who do you think is the intended audience for this?
+Interviewee 1: People interested in adopting pets.
+Interviewee 2: Pet adoption agents and people interested in adopting pets.
+
+- Is there anything you would change or do differently?
+Interviewee 1: Good enough. Nothing to change.
+Interviewee 2: Clarify for the "total".
+
+For the maps:
+
+- Can you tell me what you think this is?
+Interviewee 1: The number of pets adopted in each state as the title said.
+Interviewee 2: The exact number of pets adopted in each state.
+
+- Can you describe to me what this is telling you?
+Interviewee 1: Califonia has the biggest pets adoption number. 
+
+
+- Is there anything you find surprising or confusing?
+- Who do you think is the intended audience for this?
+- Is there anything you would change or do differently?
+
+
 
 
