@@ -2,7 +2,9 @@
 
 # Assignment 3 & 4: Critique by Design
 
-## Step 1: find a data visualization
+### Author: Yuan Meng (Ivy)
+
+## Step 1: Find a data visualization
 
 I have a lovely pet dog who has already been 11 years old and I am going to adopt a pet dog after I graduate. I am interested in the pet adoption in America, so I am searching about the pet adoption statistics of America. During my research, I found a great website (https://spots.com/pet-adoption-statistics/#alabama) including useful statistics about the pet adoption in the U.S. and noticed a visualization in the website, which is shown below:
 
@@ -10,7 +12,7 @@ I have a lovely pet dog who has already been 11 years old and I am going to adop
 
 Source: https://spots.com/pet-adoption-statistics/ 
 
-## Step 2: critique the data visualization
+## Step 2: Critique the data visualization
 
 I use Stephen Few's Data Visualization Effective Profile to critique the data visualization above. Below is the detailed analysis:
 
@@ -140,7 +142,7 @@ What I did well: My classmates thought I did improve the clarity of the visualiz
 
 What can I improve: Firstly, I can remove the legend and label the categories next to the line directly. Secondly, the current title is a little bit long and can be more concise. Thirdly, y-axis can be removed to improve the clarity of the chart further.
 
-### Below is the feedbacks I colloected from my two interviewees:
+### Below is the feedbacks I collected from my two interviewees:
 
 Interviewee 1: female, student, late 90's; 
 Interviewee 2: male, graduate, mid 90's.
