@@ -1,5 +1,46 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
+# Assignment 3 & 4: Critique by Design
+
+## Step 1: find a data visualization
+
+I have a lovely pet dog who has already been 11 years old and I am going to adopt a pet dog after I graduate. I am interested in the pet adoption in America, so I am searching about the pet adoption statistics of America. During my research, I found a great website (https://spots.com/pet-adoption-statistics/#alabama) including useful statistics about the pet adoption in the U.S. and noticed a visualization in the website, which is shown below:
+
+![Picture1](https://user-images.githubusercontent.com/122709931/217399026-392f4778-40b8-4624-8965-e2ec4b3b9f0e.jpg)
+Source: https://spots.com/pet-adoption-statistics/ 
+
+## Step 2 critique the data visualization
+
+I use Stephen Few's Data Visualization Effective Profile to critique the data visualization above. Below is the detailed analysis:
+
+- Usefulness
+
+<img width="609" alt="Screen Shot 2023-02-07 at 19 47 25" src="https://user-images.githubusercontent.com/122709931/217400473-0be2887c-1340-4713-8c96-9565096c910d.png">
+
+I choose 8 for the usefulness. Since this visualization is included in a pet adoption website, the intended audience should be people interested in the pet adoption. In general, this visualization presents the pet adoption trend in recent 5 years in America clearly, which is useful for the target audience. But the information delivered by this bar chart may be not sufficient, so I grade 8 for the usefulness dimension.
+
+- Completeness
+
+<img width="609" alt="Screen Shot 2023-02-07 at 19 47 36" src="https://user-images.githubusercontent.com/122709931/217401463-1f9a32a4-125e-4de1-8a00-4effb4c424b6.png">
+
+I choose 6 for the completeness. The bar chart includes most necessary information, what's the value is, the time line, and the data of different categories. But it missed an important information that the data is of the whole America. Though audience can know that the data is about the America through the context, audience cannot know this data is of the whole America instead of a state if the chart didn't include the information. So, I just give 6 for the completeness.
+
+- Perceptibility
+
+<img width="609" alt="Screen Shot 2023-02-07 at 19 47 44" src="https://user-images.githubusercontent.com/122709931/217402345-bf990297-6eef-4c6a-98f5-52e441146c57.png">
+
+In general, the visualization deliver the information clearly. Readers can understand the information easily. However, since the chart aims to show the trend of the pet adoption, line chart may be better to use. But the bar chart can also show the trend. So, I give 7 for "perceptibility".
+
+- Truthfulness
+
+<img width="604" alt="Screen Shot 2023-02-07 at 19 47 59" src="https://user-images.githubusercontent.com/122709931/217402970-0f6d0efe-4da3-4f76-a43b-d1096f407555.png">
+
+Firstly, the chart is based on reliable data sources. Besides, it also represent the data in a complete and objective manner. The only shortage of the chart is that it missed the data range, the whole America. In general, it is accurate, reliable and valid. So, I choose 8 for the truthfulness.
+
+- Intuitiveness
+
+
+
 ## Step 3 Sketch
 
 ## Trend of Pets Adoption in America from 2017 to 2021
