@@ -204,7 +204,7 @@ Interviewee 2: People interested in adopting pets and the state governments
 
 - Is there anything you would change or do differently?
 
-Interviewee 1: Label the abbreviation of each state on the map to identify each state more easily.
+Interviewee 1: Label the name of each state on the map to identify each state more easily.
 
 Interviewee 2: Add a bar chart to show the rank of each state more clearly.
 
@@ -221,8 +221,29 @@ For the line chart:
 - Clarify for the "total"
 
 For the maps:
-- Label the abbreviation of each state on the map
-- 
+- Label the name of each state on the map
+- Develop a bar chart ranking the pet adoption number of each state as the supplement of the maps
 
+## Part 5: Build your solution
 
+### First visualization: line chart showing the trend
+
+<img width="710" alt="Screen Shot 2023-02-07 at 23 42 25" src="https://user-images.githubusercontent.com/122709931/217435591-eba4e0f8-e435-42be-98aa-9390cfbea69c.png">
+
+(Note: I build this line chart using Excel. I noticed the instruction that "don't use programs like Excel for this final step. But since only Excel can meet all my requirements for the final design (no y-axis, x-axis in the middle, label next to the line, etc.) and the visualization doesn't need to be interactive (so the visualization built through Excel is good enough), I used Excel to build the final version of my first visulization. The rest final visualizations are all built through Tableau.)
+
+### Second visualization: maps showing the number distribution
+
+<div class='tableauPlaceholder' id='viz1675830997703' style='position: relative'><noscript><a href='#'><img alt='Number of Pets Adopted in Each State of America in 2020 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pe&#47;PetAdoptioninAmericain2020Map&#47;TotalMap2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PetAdoptioninAmericain2020Map&#47;TotalMap2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pe&#47;PetAdoptioninAmericain2020Map&#47;TotalMap2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1675830997703');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+### Third visualization: bar chart showing the number ranking
 
