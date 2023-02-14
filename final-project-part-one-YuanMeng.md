@@ -11,8 +11,9 @@ As a student graduating in May this year, I need to think about where I wanted t
 ### Project Structure
 
 Part 1 Introduction of the project
-             - Project theme
-             - Overview of the project
+       
+       -Project theme
+       -Overview of the project
 
 Part 2 introduce factors most important for me when choosing a place to live 
   - General criteria need to consider when choosing which place to live 
