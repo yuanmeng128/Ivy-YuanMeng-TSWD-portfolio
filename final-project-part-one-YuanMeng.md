@@ -10,11 +10,11 @@ As a student graduating in May this year, I need to think about where I wanted t
 
 ### Project Structure
 
-**Part 1 Introduction of the project**
+**Part 1. Introduction of the project**
 - Project theme
 - Overview of the project
 
-**Part 2 Introduce factors most important for me when choosing a place to live** 
+**Part 2. Introduce factors most important for me when choosing a place to live** 
 - General criteria need to consider when choosing which place to live 
 	- employment opportunities
 	- cost of living
@@ -24,6 +24,7 @@ As a student graduating in May this year, I need to think about where I wanted t
 	- weather
 	- culture
 	- school & education system
+	
 - Which factors are important for me?
 	- employment opportunities
 	- cost of living
@@ -32,7 +33,7 @@ As a student graduating in May this year, I need to think about where I wanted t
 	- weather
 	- education system
 
-**Part 3 Compare Pittsburgh and San Francisco based on the factors matter for me mentioned above**
+**Part 3. Compare Pittsburgh and San Francisco based on the factors matter for me mentioned above**
 - employment opportunities
 	- ranking of industry of Pittsburgh and San Francisco 
 	- ranking of income of different occupations of Pittsburgh and San Francisco
@@ -51,11 +52,12 @@ As a student graduating in May this year, I need to think about where I wanted t
         
 	- I am going to build a map showing all primary schools, secondary schools, universities and so on in Pittsburgh and San Francisco
 
-**Part 4 conclusion**	
+**Part 4. Conclusion**	
 
 Based on my preference for each factor and the comparison between Pittsburgh and San Francisco on these factors, I can get a conclusion which city suits me most. 
  
-**Part 5 call for action** 
+**Part 5. Call for action** 
+
 For audience with similar choice problems, I recommend them to find the city suits you most through the objective comparison like I did!
 
 ## Sketch
@@ -127,18 +129,18 @@ https://nces.ed.gov/
 
 ## Method and medium
 
-- Shorthand
+**Shorthand**
 
 For this project, I planned to use Shorthand as a digital medium that could help me represent the entire story. Therefore, all pictures and textual content will be delivered through Shorthand.
 
-- Flourish & Tableau
+**Flourish & Tableau**
 
 Flourish and Tableau are both good tools to build different kinds of charts. I will use Flourish and Tableau to develop bar charts, line charts, pie charts, maps, word clouds and maybe some other kinds of visualization.
 
-- FT's Visual Vocabulary
+**FT's Visual Vocabulary**
 
 I will refer to FT's Visual Vocabulary to help me choose the most suitable chart type.
 
-- Other tools and references mentioned in class
+**Other tools and references mentioned in class**
 
 I will also refer to tools and references mentioned in class, such as how to use color properly, how to use text properly, and so on.
