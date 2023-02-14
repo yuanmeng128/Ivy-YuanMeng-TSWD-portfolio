@@ -54,7 +54,7 @@ Coming soon...
 
 A high-level description of my final project: coming soon...
 
-[Part I](final-project-part-one) 
+[Part I](final-project-part-one-YuanMeng) 
 
 [Part II](final-project-part-two)
 
