@@ -33,42 +33,42 @@ or...
 
 ## WEEK 1
 
-- [x] In-class sketching exercise - King County
-- [x] Data visualization critique #1
-- [x] Controlling Color - week one sketching exercise
-- [x] Personal portfolio
+- [x]  In-class sketching exercise - King County
+- [x]  Data visualization critique #1
+- [x]  Controlling Color - week one sketching exercise
+- [x]  Personal portfolio
 
 ## WEEK 2
 
-- [x] Crafting for Clarity- week two sketching exercise
-- [x] Assignment 1: [Visualizing Government Debt](visualizing-government-debt)
+- [x]  Crafting for Clarity- week two sketching exercise
+- [x]  Assignment 1: [Visualizing Government Debt](visualizing-government-debt)
 
 ## WEEK 3 
 
-- [x] IN-CLASS EXERCISE: [Week 3 Data Visualization](week_3_in-class_exercise)
-- [x] Assignment 3 & 4: [Critique by Design](critique-by-design)
+- [x]  In-class exercise: [Week 3 Data Visualization](week_3_in-class_exercise)
+- [x]  Assignment 3 & 4: [Critique by Design](critique-by-design)
 
 ## WEEK 4
 
-- [x] Choosing Chart Types - week four sketching exercise
-- [x] Final Project I
+- [x]  Choosing Chart Types - week four sketching exercise
+- [x]  Final Project I
 
 ## WEEK 5
 
-- [x] Practicing Persuasion - week five sketching exercise
-- [x] Final Project II
+- [x]  Practicing Persuasion - week five sketching exercise
+- [x]  Final Project II
 
 ## WEEK 6
 
-- [x] Improving Final Story
+- [x]  Improving Final Story
 
 ## WEEK 7
 
-- [x] Final presentation
-- [x] Final Project III
-- [x] Clean up my online portfolio
+- [x]  Final presentation
+- [x]  Final Project III
+- [x]  Clean up my online portfolio
 
-## Final project:
+## FINAL PROJECT:
 
 Topic: Which city should I choose?
 
