@@ -71,6 +71,7 @@ or...
 ## Final project:
 
 Topic: Which city should I choose?
+
 Brief Introduction: I am going to graduate from CMU in May 2023 and need to decide where to live after graduation. I show the process of how I made a final decison between Pittsburgh and San Francisco in my story.
 
 [Part I](final-project-part-one-YuanMeng) 
