@@ -48,17 +48,17 @@ or...
 - [x] IN-CLASS EXERCISE: [Week 3 Data Visualization](week_3_in-class_exercise)
 - [x] Assignment 3 & 4: [Critique by Design](critique-by-design)
 
-## Week 4
+## WEEK 4
 
 - [x] Choosing Chart Types - week four sketching exercise
 - [x] Final Project I
 
-## Week 5
+## WEEK 5
 
 - [x] Practicing Persuasion - week five sketching exercise
 - [x] Final Project II
 
-## Week 6
+## WEEK 6
 
 - [x] Improving Final Story
 
