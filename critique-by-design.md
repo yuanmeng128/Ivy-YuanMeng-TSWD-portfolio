@@ -1,4 +1,4 @@
-| [home page](https://yuanmeng128.github.io/Ivy-YuanMeng-TSWD-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://yuanmeng128.github.io/Ivy-YuanMeng-TSWD-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one-YuanMeng) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Assignment 3 & 4: Critique by Design
 
