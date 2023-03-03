@@ -31,28 +31,47 @@ or...
 
 # Portfolio
 
-## WEEK 3 IN-CLASS EXERCISE
+## WEEK 1
 
-[Week 3 Data Visualization](week_3_in-class_exercise)
+- [x] In-class sketching exercise - King County
+- [x] Data visualization critique #1
+- [x] Controlling Color - week one sketching exercise
+- [x] Personal portfolio
 
-## Assignment 1: 
+## WEEK 2
 
-[Visualizing Government Debt](visualizing-government-debt)
+- [x] Crafting for Clarity- week two sketching exercise
+- [x] Assignment 1: [Visualizing Government Debt](visualizing-government-debt)
 
-<!--- For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. -->
+## WEEK 3 
 
-## Assignment 2:
+- [x] IN-CLASS EXERCISE: [Week 3 Data Visualization](week_3_in-class_exercise)
+- [x] Assignment 3 & 4: [Critique by Design](critique-by-design)
 
-Coming soon...
+## Week 4
 
-## Assignment 3 & 4: 
+- [x] Choosing Chart Types - week four sketching exercise
+- [x] Final Project I
 
-[Critique by Design](critique-by-design)
-<!--- For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`. --> 
+## Week 5
+
+- [x] Practicing Persuasion - week five sketching exercise
+- [x] Final Project II
+
+## Week 6
+
+- [x] Improving Final Story
+
+## WEEK 7
+
+- [x] Final presentation
+- [x] Final Project III
+- [x] Clean up my online portfolio
 
 ## Final project:
 
-A high-level description of my final project: coming soon...
+Topic: Which city should I choose?
+Brief Introduction: I am going to graduate from CMU in May 2023 and need to decide where to live after graduation. I show the process of how I made a final decison between Pittsburgh and San Francisco in my story.
 
 [Part I](final-project-part-one-YuanMeng) 
 
